@@ -44,3 +44,4 @@ uvloop
 xattr
 yt-dlp
 pytz
+xon-bit
