@@ -29,12 +29,12 @@ pillow
 psutil
 pybase64
 pycountry
-pymongo==4.11.2
+pymongo
 pyrofork==2.2.11
 python-dotenv
 python-magic
 qbittorrent-api
-requests==2.31.0
+requests
 speedtest-cli
 telegraph
 tenacity
@@ -43,8 +43,3 @@ uv
 uvloop
 xattr
 yt-dlp
-pytz
-Jinja2
-werkzeug
-itsdangerous
-pymediainfo==6.0.1
