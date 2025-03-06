@@ -44,3 +44,6 @@ uvloop
 xattr
 yt-dlp
 pytz
+Jinja2
+werkzeug
+itsdangerous
